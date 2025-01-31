@@ -22,5 +22,4 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/mirmezbaulazim)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mirmezbaulazim)  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
