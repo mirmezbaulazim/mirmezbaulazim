@@ -111,6 +111,23 @@
 
 ###
 
+<h3 align="center">📊 My working stats</h3>
+
+###
+  <div align="center">
+    <tr>
+    <td align="center" style="padding: 10px;">
+      <img
+        style="max-width: 100%; height: auto;"
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirmezbaulazim&theme=blue_green"
+        alt="Profile details"
+      />
+    </td>
+  </tr>
+  </div>
+
+  ###
+
 <h3 align="center">👀 Profile View</h3>
 
 ###
@@ -134,3 +151,4 @@
 </div>
 
 ###
+
