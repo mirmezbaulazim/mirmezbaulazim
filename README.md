@@ -36,7 +36,7 @@
 
 ###
 
-<p align="center">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="center">🧑‍🎓 currently learning: Javascript 🌱<br>- 💬 Ask Me About: Javascript, NodeJs<br>- ⚡ Simple Introduction About Me : <br>- ⚡ In my free time I Play Games</p>
 
 ###
 
